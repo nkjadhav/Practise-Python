@@ -1,4 +1,4 @@
-#290718 Star Argument Functions
+#Star Argument Functions
 
 # First - passing tuple
 
